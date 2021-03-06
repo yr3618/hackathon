@@ -6,14 +6,16 @@ function NavigationBar() {
   return (
     <div className="topnav">
       <Navbar expand="lg">
-        <Navbar.Brand href="#home">Seedling</Navbar.Brand>
+        <Navbar.Brand className="logo" href="#home">
+          <img className="logo-img" src={process.env.PUBLIC_URL + "/images/tree_sm.png"} alt="logo"></img>Seedling</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
 
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/help">Help</Nav.Link>
-            <Nav.Link href="/contact">Contact Us</Nav.Link>
+            <Nav.Link href="/help">How to recycle</Nav.Link>
+            <Nav.Link href="/charities">Charities</Nav.Link>
+            <Nav.Link href="/contact">Who are we?</Nav.Link>
           </Nav>
 
         </Navbar.Collapse>

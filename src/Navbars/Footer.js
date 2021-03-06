@@ -6,12 +6,13 @@ function Footer() {
   return (
     <div className="footer">
       <Navbar expand="lg">
-        <Navbar.Brand href="#home">Seedling</Navbar.Brand>
+        <Navbar.Brand className="logo" href="#home">Seedling</Navbar.Brand>
         <Navbar.Collapse >
           <Nav className="ms-auto">
             <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="/help">Help</Nav.Link>
-            <Nav.Link href="/whoarewe">Who Are We?</Nav.Link>
+            <Nav.Link href="/help">How to recycle</Nav.Link>
+            <Nav.Link href="/charities">Charities</Nav.Link>
+            <Nav.Link href="/contact">Who are we?</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

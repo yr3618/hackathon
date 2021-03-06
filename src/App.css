@@ -10,3 +10,14 @@ img{
   height: 25%;
   width: 100%;
 }
+
+.logo-img{
+  width: 75px;
+  height: 75px;
+}
+
+.logo{
+  font-size: 25px;
+  font-weight: 600;
+  padding-left: 0px;
+}

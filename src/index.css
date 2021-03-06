@@ -1,6 +1,6 @@
 :root {
-  --beige: #F2F5DE;
-  --yellow: #fcf876;
+  --beige: #F9FAEF;
+  --yellow: #FDFA9B;
   --green: #cee397;
   --lblue:  #8bcdcd;
   --dblue: #3797a4;
@@ -18,4 +18,8 @@ body {
 
 h1,h2,h3,h4,h5,p,a{
   padding: 25px;
+}
+
+a,p {
+  font-size: 18px
 }
