@@ -1,0 +1,25 @@
+:root {
+  --back: #F2F5DE;
+  --yellow: #fcf876;
+  --green: #cee397;
+  --lblue:  #8bcdcd;
+  --dblue: #3797a4;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h1,h3,h4,h5{
+  padding: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
+
+p,a{
+  padding: 25px;
+  font-family: 'Quicksand', sans-serif;
+}
