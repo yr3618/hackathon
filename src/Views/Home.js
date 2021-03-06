@@ -15,7 +15,9 @@ function Home() {
 
       <div className="home yellow">
         <h2>A subtitle</h2>
-        <p>Some jbdf jas fkjsdsjhdfg ajshglajhfg ajhgakjhgksjhg kjhg akjhg skhgklsjhfg kjhfg kdsjfhgljdhfg lkafghkahjsglkjfhglkfghgla lkjsf lakjflkd jflkajflkaj klfj alkjfl kdj lk jsdlkgj slkdj lksdjk lsdj flkeajf akj sjdgklj tiwoeisdf neuishgdvnjskd hievnm alk lea fael qeafj kl</p>
+        <p>Donate money to the charity of your choice by donating!</p>
+        <p>How does it work?</p>
+        <p>Scan the products you want to recycle and once you have scanned 100 items,and we will donate £2 to the charity of your choice!</p>
       </div>
     </div>
   );
