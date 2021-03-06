@@ -21,6 +21,8 @@ function NavigationBar() {
         </Navbar.Collapse>
 
       </Navbar>
+
+      <hr align="right"/>
     </div>
   );
 }

@@ -5,6 +5,8 @@ import React from "react";
 function Footer() {
   return (
     <div className="footer">
+      <hr align="right"/>
+
       <Navbar expand="lg">
         <Navbar.Brand className="logo" href="#home">Seedling</Navbar.Brand>
         <Navbar.Collapse >

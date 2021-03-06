@@ -5,9 +5,10 @@ function Home() {
   return (
     <div>
       <div className="home">
-      
-        <h2>Donate money to the charity of your choice by recycling!</h2>
-      
+
+        <h1>Make an impact by recycling!</h1>
+        <h2>You recycle. We donate.</h2>
+
       </div>
 
 
