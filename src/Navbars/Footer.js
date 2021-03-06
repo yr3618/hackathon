@@ -11,7 +11,7 @@ function Footer() {
           <Nav className="ms-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/help">Help</Nav.Link>
-            <Nav.Link href="/help">Contact Us</Nav.Link>
+            <Nav.Link href="/whoarewe">Who Are We?</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

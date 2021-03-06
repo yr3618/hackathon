@@ -1,13 +1,13 @@
 import '../App.css';
 import React from "react";
 
-function ContactUs() {
+function WhoAreWe() {
   return (
-    <div className="contact">
-      <h1>Contact Us</h1>
+    <div className="whoarewe">
+      <h1>Who Are We?</h1>
       <p>Paragraph</p>
     </div>
   );
 }
 
-export default ContactUs;
+export default WhoAreWe;

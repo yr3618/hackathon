@@ -1,3 +1,11 @@
 .topnav, .footer, .home, .help, .contact{
   padding: 10px 100px 10px 80px;
 }
+
+.transition{
+  height: 25%;
+  width: 100%;
+}
+img{
+  object-fit: fill;
+}
