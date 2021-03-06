@@ -1,5 +1,5 @@
 :root {
-  --back: #F2F5DE;
+  --beige: #F2F5DE;
   --yellow: #fcf876;
   --green: #cee397;
   --lblue:  #8bcdcd;
@@ -12,6 +12,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: var(--beige);
 }
 
 h1,h1,h3,h4,h5{

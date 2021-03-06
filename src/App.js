@@ -3,11 +3,11 @@ import React from "react";
 import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 
 // Import all views
-import Home from "./Home";
-import ContactUs from "./ContactUs";
-import NavigationBar from "./Navbar";
-import Footer from "./Footer";
-import Help from "./Help";
+import Home from "./Views/Home";
+import ContactUs from "./Views/ContactUs";
+import NavigationBar from "./Navbars/Navbar";
+import Footer from "./Navbars/Footer";
+import Help from "./Views/Help";
 
 function App() {
   return (
