@@ -15,7 +15,7 @@ body {
   background-color: var(--beige);
 }
 
-h1,h1,h3,h4,h5{
+h1,h2,h3,h4,h5{
   padding: 25px;
   font-family: 'Quicksand', sans-serif;
 }

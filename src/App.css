@@ -3,9 +3,9 @@
 }
 
 .transition{
+}
+
+img{
   height: 25%;
   width: 100%;
-}
-img{
-  object-fit: fill;
 }
